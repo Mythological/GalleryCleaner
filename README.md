@@ -84,6 +84,20 @@ python sorter.py --good_dir ./good_examples --trash_dir ./trash_examples --sourc
 
 ---
 
+## Донат:
+
+BTC: bc1qna64m0wpelkhy3vwhctvpp5g2elsqhj4ykyfgs
+
+ETH: 0x91b86a88c8deb74da72db8743e60f8f6b104e263
+
+USDT TRC20: TFGXNg8GGYQJBAGjZ4bmWHuCTznSmyNqMp
+
+LTC: ltc1qprphmcj7dncdj4k0aucuw43axefyvmdx22tcw5
+
+DOGE: DJmwXWqqmhGy1cSFmgxakP4YhA3PEKksgT
+
+Solana: DmfDLbkHRqhd3LRoGgWpdWLcDAT3dk1wZdSD2sZoGfNe
+
 ## 📄 Лицензия
 
 Этот проект распространяется под лицензией MIT.  
